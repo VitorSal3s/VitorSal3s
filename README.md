@@ -1,10 +1,12 @@
 # Olá, eu sou o Vitor, futuro desenvolvedor 👋
 
 - 🌱 Estou atualmente estudando PYHTON, SQL E COBOL
-- 👯 Estou a procura do meu primero emprego na aréa
+- 👯 Estou sempre a procura de novos desafios e conhecimentos que podem agregar para melhorar nwu desempenho
 - 😄 ELE/DELE
 - ⚡ Gosto de codar
 ##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSal3s&show_icons=true&theme=transparent)
 
 Linguagens que eu mais tenho familiaridade
 <div>
